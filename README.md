@@ -4,7 +4,8 @@
 ![Method](https://img.shields.io/badge/Method-Simple%20Linear%20Regression-0B6E4F)
 ![Domain](https://img.shields.io/badge/Domain-Biostatistics%20%26%20Public%20Health-2E8B57)
 ![Data](https://img.shields.io/badge/Data-Synthetic-D4A72C)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Code License](https://img.shields.io/badge/Code-MIT-yellow.svg)
+![Content License](https://img.shields.io/badge/Content-CC%20BY%204.0-lightgrey.svg)
 
 A reproducible R project examining the relationship between **body mass index (BMI)** and **fasting blood glucose (FBG)** using simple linear regression on a synthetic adult health dataset.
 
@@ -179,7 +180,16 @@ The project demonstrates a positive and statistically significant relationship b
 
 ## License
 
-The source code and repository materials are released under the [MIT License](LICENSE).
+This repository uses dual licensing:
+
+- Source code is released under the [MIT License](LICENSE).
+- Original non-code content—including the README, analytical report,
+  presentation, figures, and synthetic dataset—is released under the
+  [Creative Commons Attribution 4.0 International License](LICENSE-CONTENT.md).
+
+Institutional names and logos, trademarks, and cited or reproduced third-party
+materials remain the property of their respective owners and are not
+relicensed by this repository.
 
 ---
 
