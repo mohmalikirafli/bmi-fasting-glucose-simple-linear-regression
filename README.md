@@ -4,6 +4,7 @@
 ![Method](https://img.shields.io/badge/Method-Simple%20Linear%20Regression-0B6E4F)
 ![Domain](https://img.shields.io/badge/Domain-Biostatistics%20%26%20Public%20Health-2E8B57)
 ![Data](https://img.shields.io/badge/Data-Synthetic-D4A72C)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A reproducible R project examining the relationship between **body mass index (BMI)** and **fasting blood glucose (FBG)** using simple linear regression on a synthetic adult health dataset.
 
@@ -25,6 +26,7 @@ A reproducible R project examining the relationship between **body mass index (B
 - [Interpretation](#interpretation)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
+- [License](#license)
 
 ## Project Overview
 
@@ -174,6 +176,10 @@ The residual diagnostics do not show a strong departure from normality. However,
 ## Conclusion
 
 The project demonstrates a positive and statistically significant relationship between BMI and fasting blood glucose in a synthetic adult dataset. It provides a compact, reproducible example of simple linear regression, model interpretation, and residual diagnostics using R.
+
+## License
+
+The source code and repository materials are released under the [MIT License](LICENSE).
 
 ---
 
